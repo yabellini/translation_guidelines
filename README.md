@@ -1,4 +1,4 @@
-# Orientaciones para la traducción <img src='../art/hexstickers_es.png' align="right" height="239" />
+# Orientaciones para la traducción <img src='/art/hexstickers_es.png' align="right" height="239" />
 
 
 ## A. Organización del trabajo
