@@ -1,5 +1,6 @@
 # Orientaciones para la traducción <img src='/art/hexstickers_es.png' align="right" height="239" />
 
+Estas orientaciones se desarrollaron para la traducción voluntaria y colaborativa al español del libro [Enseñar Tecnología en Comunidad](https://educarencomunidad.tech/) ([Teching Tech Together](https://teachtogether.tech/en/index.html))
 
 ## A. Organización del trabajo
 Cada capítulo tiene asignada una persona a cargo de la traducción, que es responsable de que esta se lleve a cabo. Se realizarán al menos dos revisiones de cada capítulo y una edición final de todo el libro en su conjunto. Se buscó que el idioma de las traductoras y revisoras tuviera origen en diferentes países para poder considerar las diferentes y hermosas formas en que hablamos español en todo el mundo (ver la tabla al final de estas orientaciones con las personas responsables).  
