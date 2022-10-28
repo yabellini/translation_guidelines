@@ -1,5 +1,7 @@
 # Orientaciones para la traducción al español de Enseñar Tecnología en Comunidad<img src='/art/hexstickers_es.png' align="right" height="239" />
 
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.7261895.svg)
+
 Estas orientaciones se desarrollaron para la traducción voluntaria y colaborativa al español del libro [Enseñar Tecnología en Comunidad](https://educarencomunidad.tech/) ([Teching Tech Together](https://teachtogether.tech/en/index.html)).
 
 Se basaron en otros esfuerzos comunitarios de traducción y se adaptaron, completaron y extendieron durante todo el proceso de traducción del libro.
